@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='roamsSTWAVE',
+    name='stwave_32',
     version='3.0.0a',
     packages=[],
     data_files=[('Lib/site-packages/stwave_32', ['STWAVE_32bit.exe'])],
