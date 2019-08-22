@@ -1,0 +1,17 @@
+package:
+  name: stwave_32
+  version: "3.0"
+
+source:
+  git_url: https://github.com/jejabour/stwavetesting.git
+
+target_platform:
+  - win-64
+
+requirements:
+  build:
+     - setuptools
+
+
+about:
+  home: https://github.com/jejabour/stwavetesting
